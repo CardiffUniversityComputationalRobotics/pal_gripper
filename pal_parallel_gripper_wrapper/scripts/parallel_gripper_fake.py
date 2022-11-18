@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """Action server wrapping
 the real follow joint trajectory action server
